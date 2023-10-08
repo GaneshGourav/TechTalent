@@ -34,7 +34,7 @@ export function Feedback() {
         setTimeout(() => {
          navigate("/")
         }, 5000);
-        alert("you will be redirected to home page within 5 seconds!")
+        
     },[])
 
 
